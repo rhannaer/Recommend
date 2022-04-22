@@ -17,10 +17,7 @@ Idea:
 	
 Two examples of platforms we could build, based on this model:
 
-	• Notes: 
-		○ I personally would be a HUGE user of the first use case, but not the second one (not much time for movies). 
-		○ Hence would love to build the 1st one but also open for other social network propositions based upon this model.
-		○ There are many more possibilities, just think about all the instances where you would appreciate recommendations from your network/friends.
+	• Notes. There are many more possibilities, just think about all the instances where you would appreciate recommendations from your network/friends.
 		
 	• Example 1: TripAdvisor vWeb3.0
 		○ Context:
