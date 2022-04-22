@@ -3,7 +3,6 @@ ETHAmsterdam hackathon | Lens protocol-based social networks centered around rec
 Below is an overview of the idea, with two examples of use-cases. 
 
 Idea: 
-	
 	• Build social network platforms centered around recommendations, based on your 'social graph'.
 	• The overall structure of these platforms would be similar:
 	• Input: your 'Social Graph', provided by the 'Lens Protocol'. This social graph includes:
@@ -16,7 +15,6 @@ Idea:
 	• In the middle: [TBD, BUT LOT OF FUN GUARANTEED!]
 	
 Two examples of platforms we could build, based on this model:
-	
 	• Notes: 
 		○ I personally would be a HUGE user of the first use case, but not the second one (not much time for movies). 
 		○ Hence would love to build the 1st one but also open for other social network propositions based upon this model.
